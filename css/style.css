@@ -1,0 +1,54 @@
+.main {
+  margin: 20px 5px;
+  background: #eee;
+}
+
+#title {
+  display: block;
+  text-align: center;
+  padding-top: 25px;
+}
+
+#image-div {
+  background: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+}
+
+#tribute-info {
+  padding: 30px 400px;
+}
+
+#tribute-info-title {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+li {
+  margin-bottom: 20px;
+}
+
+li span {
+  font-weight: bold;
+}
+
+#tribut-info-quote, quote-author {
+  padding-left: 40px;
+}
+#tribute-link {
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+  padding-bottom: 24px;
+}
+
+a {
+  color: #477ca7;
+}
